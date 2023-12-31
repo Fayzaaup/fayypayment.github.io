@@ -239,6 +239,8 @@
     });
   });
 
+
+  alert("ATTENTION !!!\n\nBuat kalian yang belum mempunyai akun E-Wallet Premium atau terupgrade bisa pake QRIS dengan cara scan codenya saja.\n\nCs Fayy Shop.")
   /**
    * Initiate Pure Counter 
    */
