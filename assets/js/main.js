@@ -240,7 +240,7 @@
   });
 
 
-  alert("ATTENTION !!!\n\nBuat kalian yang belum mempunyai akun E-Wallet Premium atau terupgrade bisa pake QRIS dengan cara scan codenya saja.\n\nCs Fayy Shop.")
+  alert("ATTENTION !!!\n\nBuat kalian yang belum mempunyai akun E-Wallet Premium atau ter upgrade bisa pake QRIS dengan cara scan codenya saja.\n\nNote: Jika mengalami masalah silahkan refresh atau hubungi team Fayy Shop agar masalah atau eror bisa cepat di atasi, terimakasih.\n\nCs Fayy Shop.")
   /**
    * Initiate Pure Counter 
    */
